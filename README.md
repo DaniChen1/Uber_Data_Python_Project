@@ -1,2 +1,1 @@
-# Uber_Data_Python_Project
 In this Python project, using the Python libraries pandas, numpy, matplotlib, and seaborn, I analyze the Uber Pickups in New York City dataset. I present the number of trips during every hour, every day, every day of the week, and every month. I also use data visualization such as bar plots and heatmaps to help understand the data and develop an intuition for understanding the customers' who avail the trips.
